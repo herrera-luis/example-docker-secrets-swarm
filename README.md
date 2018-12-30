@@ -1,4 +1,4 @@
-## Example for use secrets in Docker in mode Swarm
+## Example for use secrets with Docker in Swarm mode
 
 **This example works in Docker 1.13 and higher**
 
